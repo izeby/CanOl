@@ -1,0 +1,10 @@
+Kullanıcı Bilgileri 
+
+Kullanıcı Adı: fatih
+Kullanıcı Soyadı: akay
+Kullanıcı Yaşı: 
+Kullanıcı Kan Grubu: 0rh+
+Kullanıcı İl: adana
+Kullanıcı İlçe: 
+Kullanıcı Mahalle: 
+Kullanıcı Telefon: 987654321
